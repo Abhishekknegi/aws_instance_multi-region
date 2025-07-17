@@ -9,7 +9,7 @@ useast_az          = "us-east-1a"
 # us-west-1 VPC settings
 uswest_vpc_cidr    = "10.1.0.0/16"
 uswest_subnet_cidr = "10.1.1.0/24"
-uswest_az          = "us-west-1a"
+uswest_az          = "us-west-2a"
 
 # VPC peering
-peer_region = "us-west-1"
+peer_region = "us-west-2"

@@ -5,5 +5,5 @@ provider "aws" {
 
 provider "aws" {
   alias  = "uswest"
-  region = "us-west-1"
+  region = "us-west-2"
 }
