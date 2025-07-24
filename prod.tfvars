@@ -1,5 +1,5 @@
 # AMI ID (Amazon Linux 2 in us-east-1)
-ami = "ami-0c94855ba95c71c99"
+ami = "data.aws_ssm_parameter.amazon_linux_2.value"
 
 # us-east-1 VPC settings
 useast_vpc_cidr    = "10.0.0.0/16"
